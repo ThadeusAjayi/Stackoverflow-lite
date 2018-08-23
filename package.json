@@ -1,0 +1,27 @@
+{
+  "name": "stackoverflow-lite",
+  "version": "1.0.0",
+  "description": "Andela Developer Challenge - VLF Technical Assessment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThadeusAjayi/Stackoverflow-lite.git"
+  },
+  "keywords": [
+    "api",
+    "stackoverflow-lite",
+    "postgre",
+    "sql",
+    "backend",
+    "rest"
+  ],
+  "author": "Thadeus Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThadeusAjayi/Stackoverflow-lite/issues"
+  },
+  "homepage": "https://github.com/ThadeusAjayi/Stackoverflow-lite#readme"
+}
